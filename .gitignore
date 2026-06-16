@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+*.log
+
+# agent architecture
+/.tmp/
+/execution/
+/directives/
+credentials.json
+token.json
+.env
+.env.local
